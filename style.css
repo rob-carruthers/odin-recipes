@@ -1,0 +1,16 @@
+/* style.css */
+
+* {
+    font-family: sans-serif;
+}
+
+h1, h2, h3 {
+    font-style: italic;
+}
+
+.maintitle {
+    font-weight: 800;
+    color: purple;
+    font-family: "Brush Script MT", cursive;
+}
+
